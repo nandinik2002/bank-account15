@@ -1,0 +1,3 @@
+name = input("Enter your first name:")
+income = int(input("Enter weekly income:"))
+weeks = int(input("How many weeks have your been working?"))

@@ -1,1 +1,1 @@
-# bank-account15
+Our code asked for three inputs. The inputs were asking for "name", "weekly income", and "the number of weeks worked". The program than took the "weekly income" input and the "number of weeks worked" input and multiplied them together, printing the "accumulated income". Nandini Kasibhotla and Shivani Praveen

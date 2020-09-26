@@ -1,3 +1,5 @@
 name = input("Enter your first name:")
 income = int(input("Enter weekly income:"))
 weeks = int(input("How many weeks have your been working?"))
+inVal= income * weeks
+print("Your accumulated income total is:" ,inVal)

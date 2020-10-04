@@ -3,3 +3,11 @@ income = int(input("Enter weekly income:"))
 weeks = int(input("How many weeks have your been working?"))
 inVal= income * weeks
 print("Your accumulated income total is:" ,inVal)
+Raise = input("Did you get a raise?:")
+if Raise == 'yes':
+    income = int(input("Enter weekly income:"))
+    newIncome = 0.15*income
+    newIncomes = newIncome + income
+    print("Your accumulated income is",newIncomes)
+else: 
+    print("Your accumulated income is" ,inVal)
